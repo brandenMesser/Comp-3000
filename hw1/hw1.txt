@@ -1,0 +1,16 @@
+Branden Messer
+8/25/16
+hw1.txt
+
+
+1. Jack views programming as a design activity.
+
+2. Programming and the build/test cycle are central to the process of building     software and software can represent almost anything. This makes it unlikely 
+   that we will find a general purpose for all software,
+
+3.Jack belives c++ makes it easier to design software and program at the same
+  time.
+
+4.The reason software engineers don't adhere as strictly to the same design, refine, test strategy as other engineers is because while designing software is
+really expensive, actually building it is really cheap. So instead of trying to prove it. We just build and test. 
+
