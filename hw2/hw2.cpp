@@ -1,5 +1,4 @@
 /*Name:	Branden Messer
-*UserID: blm0020
 *filename: hw2.cpp
 *Compiler: g++ -o hw2 hw2.cpp
 *Sample usage: ./hw2
