@@ -1,5 +1,4 @@
 /* Name: Branden Messer
- * UserID: blm0020
  * filename: hw3.cpp
  * Compiler: g++ -o hw3 hw3.cpp
  * Sample usage: ./hw3
@@ -11,7 +10,7 @@
 using namespace std;
 
 int main(){
-	// Varibles for hw2.
+	// Varibles for hw3.
 	 double loanAm;
 	 double interRate;
 	 double inter;
