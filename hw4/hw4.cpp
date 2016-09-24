@@ -1,5 +1,7 @@
-/*Branden Messer
+/* Branden Messer
  * FileName: hw4.cpp
+ * Compiler: g++ -o hw4 hw4.cpp
+ * Sample usage: ./hw4
  */
 
 
